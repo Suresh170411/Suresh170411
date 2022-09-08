@@ -8,6 +8,7 @@
 - 📫 How to reach me **suresh.20fk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding">
 <p align="left">
 </p>
 
