@@ -1,14 +1,18 @@
 <h1 align="center">Hi 👋, I'm Suresh</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
+- 🏫 I’m currently studying at **Masai School,Banglore**
+
 - 🌱 I’m currently learning **Backend Java Developer**
 
-- 💬 Ask me about **Java,SQL,Javascript,HTML,CSS**
+- 💬 Ask me about **Tech because I love to learn about tech.**
 
 - 📫 How to reach me **suresh.20fk@gmail.com**
 
+- ⚡ Fun fact **I can be a mood booster sometimes but you need give me your time first.**
+
 <h3 align="left">Connect with me:</h3>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding">
+<img align="right" width="400" src="https://miro.medium.com/max/1400/1*XR3rTO1O_RM69jFDcez7cw.gif" alt="Coding">
 <p align="left">
 </p>
 
