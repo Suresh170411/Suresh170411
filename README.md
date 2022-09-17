@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I can be a mood booster sometimes but you need give me your time first.**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" width="400" height="300" src="https://miro.medium.com/max/1400/1*XR3rTO1O_RM69jFDcez7cw.gif" alt="Coding">
+<img align="right" width="400" height="200" src="https://miro.medium.com/max/1400/1*XR3rTO1O_RM69jFDcez7cw.gif" alt="Coding">
 <p align="left">
 </p>
 
