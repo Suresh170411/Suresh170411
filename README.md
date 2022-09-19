@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suresh</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate backend developer</h3>
 
 - 🏫 I’m currently studying at **Masai School,Banglore**
 
