@@ -11,6 +11,8 @@
 
 ### ⚡ One line that describes me best? 
 - ✔️ Chilled person filled with good sense of humor.
+- I love talking About Code and meeting with different people so if you want to say hi, I'll be curious to know more! 😊😊
+
 ### ⚡ 💬 Ask me about:
 - Anything ( not my personal life , duhh !! )
 
@@ -20,7 +22,7 @@
 
 
 
-### Familiar Tech Stack:
+###🛠️ Technologies and Tools I use:
 
 <!-- coding boy -->
 <img width="40%" align="right" alt="Coding Boy" src="https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=true" />
