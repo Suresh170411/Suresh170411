@@ -16,8 +16,7 @@
 
 ### 📫 How can you reach me?
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/suresh-kumar-mallik-7193b4233)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt='linkedin' height='40'>](www.linkedin.com/in/suresh-kumar-mallik-7193b4233)
 
 
 
