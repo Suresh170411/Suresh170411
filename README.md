@@ -18,7 +18,18 @@
 
 ### 📫 How can you reach me?
 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt='linkedin' height='40'>](www.linkedin.com/in/suresh-kumar-mallik-7193b4233)
+<p align="left">
+    <a href="www.linkedin.com/in/suresh-kumar-mallik-7193b4233">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN" />
+    </a>
+    <a href="https://suresh170411.github.io/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="PORTFOLIO" />
+    </a>
+    <a title="suresh.20fk@gmail.com" href="mailto:rushivenketesh@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL" />
+    </a>
+</p>
+<br></br>
 
 
 
