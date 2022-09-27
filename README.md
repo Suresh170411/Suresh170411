@@ -19,7 +19,7 @@
 ### 📫 How can you reach me?
 
 <p align="left">
-    <a href="www.linkedin.com/in/suresh-kumar-mallik-7193b4233">
+    <a href="https://www.linkedin.com/in/suresh-kumar-mallik-7193b4233?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrovONgGZTXWjDexRRKohIA%3D%3D">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN" />
     </a>
     <a href="https://suresh170411.github.io/">
