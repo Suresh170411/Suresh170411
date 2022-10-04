@@ -56,6 +56,7 @@
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
  <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="25px"/>
+ <img alt="Sb" src="https://img.shields.io/badge/Spring Boot-339933?style=for-the-badge&logo=Postman&logoColor=white" height="25px"/>
 
 </p>
 
