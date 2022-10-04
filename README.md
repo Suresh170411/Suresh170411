@@ -64,7 +64,7 @@
 
 ### Used Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,netlify,vscode,springboot)]()
+[![My Skills](https://skillicons.dev/icons?i=git,github,netlify,vscode,hybernate)]()
 
 
 <br />
