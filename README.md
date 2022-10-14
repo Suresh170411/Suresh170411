@@ -1,23 +1,16 @@
 <!-- ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Suresh!](https://suresh170411.github.io/)  -->
 
-### नमस्ते (Namaste)🙏🏻, I am Shantanu Bombatkar [ ](https://i.pinimg.com/originals/bb/82/21/bb82217d6c6a89cad939f8c8567f6171.gif)!
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+### नमस्ते (Namaste)🙏🏻, I am Suresh Kumar Mallik !
 
-### 🌱 I’m from Balasore, Odisha, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">.
-### 🌱 I’m currently learning ...
-- Java, Aspiring Java Backend Developer
+<a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Java+Developer;&center=true&width=400&height=50"></a>
 
-### 🌱 What do I do?
-- ✔️ I am passionate about coding and tech so looking forward to make a career in tech.😉
+### 𝓘 𝓪𝓶 𝓪  Tech and Automation Enthusiast ,𝓯𝓪𝓼𝓬𝓲𝓷𝓪𝓽𝓮𝓭  𝓽𝓸𝔀𝓪𝓻𝓭𝓼  API Development, Web3 𝓪𝓷𝓭 Photography ❤️
 
-- ✔️I'm a fast learner looking for interesting career opportunities as a Java developer. 
-
-### ⚡ One line that describes me best? 
-- ✔️ Chilled person filled with good sense of humor.
-- I love talking About Code and meeting with different people so if you want to say hi, I'll be curious to know more! 😊😊
-
-### ⚡ 💬 Ask me about:
-- Anything ( not my personal life , duhh !! )
+- 🔭 I’m currently working on :- Deliberate practice coding
+- 🌱 I’m currently learning :- Java Backend Developement, REST API, Hibernate, SpringBoot, AWS
+- 🤔 I’m looking for help with :- APISecurity, Web3, Heroku and Stocks
+- 💬 Ask me about:- Anything ( not my personal life , duhh !! )
+- ⚡ Fun fact:  Right now I'm looking at you, 'cause you're looking at me.
 
 ### 📫 How can you reach me?
 
