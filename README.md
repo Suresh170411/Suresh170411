@@ -2,8 +2,7 @@
 
 ### नमस्ते (Namaste)🙏🏻, I am Suresh Kumar Mallik !
 
-<a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Java+Developer;&center=true&width=400&height=50"></a>
-
+<a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Java+Developer;&center=true&width=400&height=40"></a>
 ### 𝓘 𝓪𝓶 𝓪  Tech and Automation Enthusiast ,𝓯𝓪𝓼𝓬𝓲𝓷𝓪𝓽𝓮𝓭  𝓽𝓸𝔀𝓪𝓻𝓭𝓼  API Development, Web3 𝓪𝓷𝓭 Photography ❤️
 
 - 🔭 I’m currently working on :- Deliberate practice coding
