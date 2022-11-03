@@ -30,8 +30,8 @@
 <p> <img src="https://img.shields.io/github/followers/suresh170411?style=social" alt="suresh170411" /> </p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-
 <em><b>I love talking About Code and meeting with different people </b>so if you want to say hi, <b> I'll be curious to know more!</b> 😊😊</em>
+
 
 ## 🛠️ Technologies and Tools I use:
 
