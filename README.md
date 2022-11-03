@@ -26,10 +26,7 @@
 </p>
 <br></br>
 
-<p align="left"> 
-    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=suresh170411&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>  
-          <img height="165em" src="https://github-readme-stats.vercel.app/api?username=suresh170411&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</p>
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em margin-bottom="20px"><b>I love talking About Code and meeting with different people </b>so if you want to say hi, <b> I'll be curious to know more!</b> 😊😊</em>
 
 
@@ -74,8 +71,10 @@
 <br><br>
 <h2 align="center">📊 My Github Stats<h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=suresh170411&theme=radical" alt="Samruddhi" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=suresh170411&show_icons=true&theme=radical" height="255px" width="47%"/>
+  <p align="left"> 
+   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=suresh170411&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>  
+          <img height="165em" src="https://github-readme-stats.vercel.app/api?username=suresh170411&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</p>
 <div>
   </br>
   
