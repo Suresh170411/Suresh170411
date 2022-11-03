@@ -26,8 +26,10 @@
 </p>
 <br></br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suresh170411&label=Profile%20views&color=0e75b6&style=flat-square" alt="suresh170411" /> </p>
-<p> <img src="https://img.shields.io/github/followers/suresh170411?style=social" alt="suresh170411" /> </p>
+<p align="left"> 
+    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=suresh170411&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>  
+          <img height="165em" src="https://github-readme-stats.vercel.app/api?username=suresh170411&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</p>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em margin-bottom="20px"><b>I love talking About Code and meeting with different people </b>so if you want to say hi, <b> I'll be curious to know more!</b> 😊😊</em>
 
 
