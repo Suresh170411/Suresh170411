@@ -68,7 +68,7 @@
 
 ### Used Tools:
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,spring,hibernate,maven,mysql,aws,js,html,css,git)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=spring,hibernate,maven,mysql,aws,git,vscode,netlify)](https://skills.thijs.gg)
 
 
 <br />
