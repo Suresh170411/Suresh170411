@@ -66,7 +66,8 @@
 <img alt="Lombok" src="https://img.shields.io/badge/-Lombok-F05032?style=flat-square&logo=Lombok&logoColor=white" height="25px"/>
 <img alt="SQL" src="https://img.shields.io/badge/-MySQL-2088FF?style=flat-square&logo=MySQL&logoColor=white" height="25px"/>
 </p>
-
+<br/>
+<p align="center"><img align="center" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Suresh170411&show_icons=true&title_color=ffc800&text_color=ffffff&bg_color=010000&locale=en&layout=compact" alt="Suresh170411" /></p>
 <br/>
 
 ### Used Tools:
