@@ -65,6 +65,7 @@
 <img alt="Swagger" src="https://img.shields.io/badge/Swagger-339933?style=for-the-badge&logo=Swagger&logoColor=white" height="25px"/>
 <img alt="Lombok" src="https://img.shields.io/badge/-Lombok-F05032?style=flat-square&logo=Lombok&logoColor=white" height="25px"/>
 <img alt="SQL" src="https://img.shields.io/badge/-MySQL-2088FF?style=flat-square&logo=MySQL&logoColor=white" height="25px"/>
+<img alt="Python" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=MySQL&logoColor=white" height="25px"/>
 </p>
 <br/>
 <p align="center"><img align="center" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Suresh170411&show_icons=true&title_color=ffc800&text_color=ffffff&bg_color=010000&locale=en&layout=compact" alt="Suresh170411" /></p>
@@ -72,7 +73,7 @@
 
 ### Used Tools:
 
-[![My Skills](https://skills.thijs.gg/icons?i=spring,hibernate,maven,mysql,aws,git,vscode,netlify,postman,swagger,lombok,python)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=spring,hibernate,maven,mysql,aws,git,vscode,netlify,postman)](https://skills.thijs.gg)
 
 
 <br />
