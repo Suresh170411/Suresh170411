@@ -36,7 +36,6 @@
 <em><b>I love talking About Code and meeting with different people </b>so if you want to say hi, <b> I'll be curious to know more!</b> 😊😊</em>
 
 <br></br>
-<br></br>
 
 ![student-report-management-system-1620319712-577](https://i.postimg.cc/bN4RF5zs/971.jpg)
 
