@@ -1,4 +1,4 @@
-<!-- ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Suresh!](https://suresh170411.github.io/)  -->
+ ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Suresh!](https://suresh170411.github.io/)
 
 ### नमस्ते (Namaste)🙏🏻, I am Suresh Kumar Mallik !
 
