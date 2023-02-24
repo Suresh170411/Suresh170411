@@ -1,4 +1,3 @@
- ![student-report-management-system-1620319712-577](https://i.postimg.cc/bN4RF5zs/971.jpg)
 
 ### नमस्ते (Namaste)🙏🏻, I am Suresh Kumar Mallik !
 
@@ -35,7 +34,7 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <em><b>I love talking About Code and meeting with different people </b>so if you want to say hi, <b> I'll be curious to know more!</b> 😊😊</em>
-
+![student-report-management-system-1620319712-577](https://i.postimg.cc/bN4RF5zs/971.jpg)
 
 ## 🛠️ Technologies and Tools I use:
 
