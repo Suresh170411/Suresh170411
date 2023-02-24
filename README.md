@@ -1,4 +1,4 @@
- [Suresh!]([https://suresh170411.github.io/](https://i.postimg.cc/bN4RF5zs/971.jpg))
+ ![student-report-management-system-1620319712-577](https://i.postimg.cc/bN4RF5zs/971.jpg)
 
 ### नमस्ते (Namaste)🙏🏻, I am Suresh Kumar Mallik !
 
