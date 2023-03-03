@@ -65,7 +65,7 @@
 <img alt="Sb" src="https://img.shields.io/badge/Spring Boot-339933?style=for-the-badge&logo=Springboot&logoColor=white" height="25px"/>
 <img alt="Hybernate" src="https://img.shields.io/badge/Hybernate-323330?style=for-the-badge&logo=Hybernate&logoColor=F7DF1E"  height="25px"/>
 <img alt="Swagger" src="https://img.shields.io/badge/Swagger-339933?style=for-the-badge&logo=Swagger&logoColor=white" height="25px"/>
-<img alt="Lombok" src="https://img.shields.io/badge/-Lombok-F05032?style=flat-square&logo=Lombok&logoColor=white" height="25px"/>
+<img alt="Lombok" src="https://img.shields.io/badge/-Lombok-AC3922?style=flat-square&logo=Lombok&logoColor=white" height="25px"/>
 <img alt="SQL" src="https://img.shields.io/badge/-MySQL-FFFFFF?style=flat-square&logo=MySQL&logoColor=black" height="25px"/>
 <img alt="Python" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=Python&logoColor=white" height="25px"/>
 <img alt="Railway" src="https://img.shields.io/badge/-Railway-563D7C?style=flat-square&logo=Railway&logoColor=white" height="25px"/>
