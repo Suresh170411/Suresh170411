@@ -4,7 +4,7 @@
 <a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Java+Backend+Developer;&center=true&width=400&height=40"></a>
 ### 𝓘 𝓪𝓶 𝓪  Tech and Automation Enthusiast ,𝓯𝓪𝓼𝓬𝓲𝓷𝓪𝓽𝓮𝓭  𝓽𝓸𝔀𝓪𝓻𝓭𝓼  API Development, Web3 𝓪𝓷𝓭 Photography ❤️
 
-- 🔭 I’m currently working on :- Java, Hibernate, SpringBoot
+- 🔭 I’m currently working on :- Java, MySQL, Hibernate, SpringBoot
 - 🌱 I’m currently learning :- Java Backend Developement, REST API, Hibernate, SpringBoot, AWS
 - 🤔 I’m looking for help with :- APISecurity, Web3, Heroku and Stocks
 - 💬 Ask me about:- Anything ( not my personal life , duhh !! )
