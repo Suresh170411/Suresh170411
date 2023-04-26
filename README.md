@@ -70,7 +70,7 @@
 <img alt="Python" src="https://img.shields.io/badge/-Python-1572B6?style=flat-square&logo=Python&logoColor=white" height="25px"/>
 <img alt="Railway" src="https://img.shields.io/badge/-Railway-563D7C?style=flat-square&logo=Railway&logoColor=white" height="25px"/>
 <img alt="elasticsearch" src="https://img.shields.io/badge/-elasticsearch-109989?style=flat-square&logo=elasticsearch&logoColor=white" height="25px"/>
-<img alt="Junit" src="https://img.shields.io/badge/-Junit-109989?style=flat-square&logo=Junit&logoColor=white" height="25px"/>
+<img alt="Junit" src="https://img.shields.io/badge/-JUnit5-109989?style=flat-square&logo=JUnit5&logoColor=white" height="25px"/>
 </p>
 <br/>
 <p align="center"><img align="center" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Suresh170411&show_icons=true&title_color=ffc800&text_color=ffffff&bg_color=010000&locale=en&layout=compact" alt="Suresh170411" /></p>
