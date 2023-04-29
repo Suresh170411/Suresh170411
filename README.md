@@ -70,7 +70,7 @@
 <img alt="Python" src="https://img.shields.io/badge/-Python-1572B6?style=flat-square&logo=Python&logoColor=white" height="25px"/>
 <img alt="Railway" src="https://img.shields.io/badge/-Railway-563D7C?style=flat-square&logo=Railway&logoColor=white" height="25px"/>
 <img alt="elasticsearch" src="https://img.shields.io/badge/-elasticsearch-109989?style=flat-square&logo=elasticsearch&logoColor=white" height="25px"/>
-<img alt="JUnit5" src="https://img.shields.io/badge/-JUnit5-FF6C37?style=flat-square&logo=JUnit5&logoColor=white" height="25px"/>
+<img alt="JUnit5" src="https://img.shields.io/badge/-JUnit5-d44e47?style=flat-square&logo=JUnit5&logoColor=white" height="25px"/>
 <img alt="Mockito" src="https://img.shields.io/badge/-Mockito-339933?style=flat-square&logo=Mockito&logoColor=white" height="25px"/>
 </p>
 <br/>
