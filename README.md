@@ -10,7 +10,7 @@
 - 💬 Ask me about:- Anything ( not my personal life , duhh !! )
 - ⚡ Fun fact:  Right now I'm looking at you, 'cause you're looking at me.
 - 📄 Check out my resume : **[Resume](https://drive.google.com/file/d/1RGKv8ZyLxQ9zvgja8Qm6qNgG_Au5USIM/view?usp=sharing)**
-- 📑 Check out my Portfolio : **[Portfolio](https://suresh170411.github.io/)**
+- 💼 Check out my Portfolio : **[Portfolio](https://suresh170411.github.io/)**
 ### 📫 How can you reach me?
 
 <p align="left">
