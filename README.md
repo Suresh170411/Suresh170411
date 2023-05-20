@@ -74,7 +74,6 @@
 <img alt="Mockito" src="https://img.shields.io/badge/-Mockito-339933?style=flat-square&logo=Mockito&logoColor=white" height="25px"/>
 </p>
 <br/>
-<p align="center"><img align="center" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Suresh170411&show_icons=true&title_color=ffc800&text_color=ffffff&bg_color=010000&locale=en&layout=compact" alt="Suresh170411" /></p>
 <br/>
 
 ### Used Tools:
@@ -99,11 +98,16 @@
                 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=suresh170411&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
             </td>
         </tr>
+        <tr>
+            <td>
+                <p align="center"><img align="center" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Suresh170411&show_icons=true&title_color=ffc800&text_color=ffffff&bg_color=010000&locale=en&layout=compact" alt="Suresh170411" /></p>
+            </td>
+        </tr>
     </tbody>
 </table>
 
-  </br>
-  </br>
+  <br />
+  <br />
 <p align="center">Like the content? </p>
 <p align="center"> Please give a ⭐ to the repository you like. 😊</p>
 
