@@ -86,8 +86,8 @@
 <br />
 <br />
 <br />
-<br><br>
-<h2 align="center">📊 My Github Stats<h2>
+
+### 📊 My Github Stats<h2>
     
 <table>
     <tbody>
