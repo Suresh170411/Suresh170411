@@ -88,13 +88,20 @@
 <br />
 <br><br>
 <h2 align="center">📊 My Github Stats<h2>
-<div>
-  <p align="left"> 
-   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=suresh170411&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>  
-          <img height="165em" src="https://github-readme-stats.vercel.app/api?username=suresh170411&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</p>
-<div>
-  </br>
+    
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=suresh170411&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
+            </td>
+            <td>
+                <img height="165em" src="https://github-readme-stats.vercel.app/api?username=suresh170411&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+            </td>
+        </tr>
+    </tbody>
+</table>
+</br>
   
 
 
