@@ -100,7 +100,7 @@
         </tr>
         <tr>
             <td>
-                <p align="center"><img align="center" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Suresh170411&show_icons=true&title_color=ffc800&text_color=ffffff&bg_color=010000&locale=en&layout=compact" alt="Suresh170411" /></p>
+                <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Suresh170411&show_icons=true&title_color=ffc800&text_color=ffffff&bg_color=010000&locale=en&layout=compact" alt="Suresh170411" />
             </td>
         </tr>
     </tbody>
