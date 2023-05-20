@@ -87,7 +87,7 @@
 <br />
 <br />
 
-### 📊 My Github Stats<h2>
+### 📊 My Github Stats
     
 <table>
     <tbody>
@@ -104,8 +104,7 @@
 
   
 
-    </br>
-    ## Like the content? Please give a ⭐ to the repository you like. 😊
+   ## Like the content? Please give a ⭐ to the repository you like. 😊
 
   
 
