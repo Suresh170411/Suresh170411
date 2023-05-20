@@ -89,7 +89,7 @@
 <br><br>
 <h2 align="center">📊 My Github Stats<h2>
     
-<table margin-left: auto,  margin-right: auto>
+<table>
     <tbody>
         <tr>
             <td>
@@ -103,7 +103,8 @@
 </table>
 
   
-    <br></br>
+
+    </br>
     ## Like the content? Please give a ⭐ to the repository you like. 😊
 
   
