@@ -104,7 +104,7 @@
 
   
 
-   ## Like the content? Please give a ⭐ to the repository you like. 😊
+<p align="center">Like the content? Please give a ⭐ to the repository you like. 😊</p>
 
   
 
