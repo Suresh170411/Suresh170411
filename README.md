@@ -37,7 +37,7 @@
 
 <br></br>
 
-![student-report-management-system-1620319712-577](https://i.postimg.cc/bN4RF5zs/971.jpg)
+
 
 ## 🛠️ Technologies and Tools I use:
 
