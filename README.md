@@ -72,7 +72,7 @@
 <img alt="elasticsearch" src="https://img.shields.io/badge/-elasticsearch-109989?style=flat-square&logo=elasticsearch&logoColor=white" height="25px"/>
 <img alt="JUnit5" src="https://img.shields.io/badge/-JUnit5-d44e47?style=flat-square&logo=JUnit5&logoColor=white" height="25px"/>
 <img alt="Mockito" src="https://img.shields.io/badge/-Mockito-339933?style=flat-square&logo=Mockito&logoColor=white" height="25px"/>
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-1572B6?style=flat-square&logo=Docker&logoColor=white" height="25px"/>
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-2088FF?style=flat-square&logo=Docker&logoColor=white" height="25px"/>
 </p>
 <br/>
 <br/>
