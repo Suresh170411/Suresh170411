@@ -5,7 +5,7 @@
 ### 𝓘 𝓪𝓶 𝓪  Tech and Automation Enthusiast ,𝓯𝓪𝓼𝓬𝓲𝓷𝓪𝓽𝓮𝓭  𝓽𝓸𝔀𝓪𝓻𝓭𝓼  API Development, Web3 𝓪𝓷𝓭 Photography ❤️
 
 - 🔭 I’m currently working on :- Java, MySQL, Hibernate, SpringBoot, JUnit, Mockito
-- 🌱 I’m currently learning :- Java Backend Developement, REST API, Hibernate, SpringBoot, AWS
+- 🌱 I’m currently learning :- Java Backend Developement, REST API, Hibernate, SpringBoot, AWS, Docker
 - 🤔 I’m looking for help with :- APISecurity, Web3, Heroku and Stocks
 - 💬 Ask me about:- Anything ( not my personal life , duhh !! )
 - ⚡ Fun fact:  Right now I'm looking at you, 'cause you're looking at me.
